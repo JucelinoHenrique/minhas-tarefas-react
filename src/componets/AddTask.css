@@ -1,0 +1,23 @@
+
+.Add-Task-Container{
+    display: flex;
+    width: 100%;
+    margin: 15px 0;
+
+}
+
+.Add-Task-Input{
+    height: 40px;
+    padding: 0 10px;
+    border-radius: 5px;
+    border: none;
+    flex: 2;
+    background-color: #444;
+    font-size: 16px;
+    color: #fff;
+}
+
+.Add-task-button-container{
+    margin-left: 10px;
+    flex: 1;
+}

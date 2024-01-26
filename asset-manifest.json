@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minhas-tarefas-react/static/css/main.b408fba8.css",
+    "main.js": "/minhas-tarefas-react/static/js/main.58ae5a1b.js",
+    "index.html": "/minhas-tarefas-react/index.html",
+    "main.b408fba8.css.map": "/minhas-tarefas-react/static/css/main.b408fba8.css.map",
+    "main.58ae5a1b.js.map": "/minhas-tarefas-react/static/js/main.58ae5a1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b408fba8.css",
+    "static/js/main.58ae5a1b.js"
+  ]
+}
